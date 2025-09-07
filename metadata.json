@@ -1,0 +1,5 @@
+{
+  "name": "WebTools12",
+  "description": "A web-based desktop environment inspired by the Windows 11 user interface. It features a taskbar, desktop icons, and draggable windows for various applications.",
+  "requestFramePermissions": []
+}
